@@ -6,8 +6,8 @@ categories: ["shopping"]
 tags: ["Top10", "shopping", "cos"]
 keywords: ["cos", "Top10", "shopping"]
 author: "pemtpemt32"
-description: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
-summary: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
+description: "이 글에서는 cos 베스트셀러 10개를 한눈에 비교할 수 있도록 정리했습니다. 미니멀리즘의 정수를 담은 'COS'는 간결하면서도 세련된 디자인으로 많은 사랑을 받고 있습니다. 엄선된 소재와 섬세한 마감으로 옷 한 벌 한 벌에 고품격 가치를 담아내죠. 유행을 타지…"
+summary: "이 글에서는 cos 베스트셀러 10개를 한눈에 비교할 수 있도록 정리했습니다. 미니멀리즘의 정수를 담은 'COS'는 간결하면서도 세련된 디자인으로 많은 사랑을 받고 있습니다. 엄선된 소재와 섬세한 마감으로 옷 한 벌 한 벌에 고품격 가치를 담아내죠. 유행을 타지…"
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/2b21/98f9bc170a8b0c3117ee7e7de004574f285a50960b988dec4c6f6fbfd492.png"
   alt: "cos 추천 TOP10 — COS 코스 아이래쉬 세럼 블랙라벨+속눈썹정리솔+눈썹정"

@@ -6,8 +6,8 @@ categories: ["shopping"]
 tags: ["Top10", "shopping", "스탠바이미2max"]
 keywords: ["스탠바이미2max", "Top10", "shopping"]
 author: "pemtpemt32"
-description: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
-summary: "@media(max-width:480px){.cpg-img{float:none!important;max-width:100%!important;width:100%;margin:0 0…"
+description: "스탠바이미2max 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다. 스탠바이미2max는 최신 4K UHD 디스플레이 기술로 선명한 화질을 자랑하는 프리미엄 디스플레이입니다. 가성비와 화질, 그리고 세련된 디자인을 동시에 원하는 소비자들에게…"
+summary: "스탠바이미2max 카테고리에서 최근 데이터 기준 가장 많이 선택되는 상품 10개를 모았습니다. 스탠바이미2max는 최신 4K UHD 디스플레이 기술로 선명한 화질을 자랑하는 프리미엄 디스플레이입니다. 가성비와 화질, 그리고 세련된 디자인을 동시에 원하는 소비자들에게…"
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/retail/images/2026/05/11/17/6/759c9015-0609-42fe-b729-d16e5a63c2be.jpg"
   alt: "스탠바이미2max 추천 TOP10 — LG전자 4K UHD LED 스탠바이미 2 Max TV"
